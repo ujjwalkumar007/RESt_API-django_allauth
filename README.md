@@ -28,6 +28,7 @@ The following are the requirements for the project, which will be installed in t
 * django
 * djangorestframework
 * danjo-allauth
+* docker
 
 ---
 
