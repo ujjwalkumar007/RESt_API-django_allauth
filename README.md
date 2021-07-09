@@ -47,9 +47,9 @@ To build the docker image from docker file -
 
 ## Running Django App - 
     * To use Rest api services(CRUD operation) for Course, open -
-          http://127.0.0.1:8000/course/
+   http://127.0.0.1:8000/course/
     * To use Rest api services(CRUD operation) for Wishlist, open -
-          http://127.0.0.1:8000/wishlist/
+   http://127.0.0.1:8000/wishlist/
     * For authentication use-
-          http://127.0.0.1:8000/accounts/login/
-          http://127.0.0.1:8000/accounts/logout/
+   http://127.0.0.1:8000/accounts/login/
+   http://127.0.0.1:8000/accounts/logout/
