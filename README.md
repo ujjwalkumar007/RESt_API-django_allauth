@@ -5,8 +5,6 @@ What is this what I have to build?
 * Date of the course
 * Price of the course
 * Users enrolled in this course
-
----
 # A wishlist model, which will have a user and a course.  -
 * User showing all data about the user
 * Course showing all data about the course
@@ -16,3 +14,10 @@ The following features are desirables -
 * Login
 * Forgot Password
 * Forgot Email
+---
+# My solution contain:-
+* GET, POST, DELETE methods all working properly for courses and wishlist.
+* Properly presented JSON formatted data.
+* Comments and Docstrings, explaining what your code does.
+* Course and Wishlist endpoints showing all the relative data property formatted.
+
