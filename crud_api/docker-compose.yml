@@ -1,0 +1,7 @@
+version: '3' #version of docker compose
+services:    #services which we are going to use
+    web:    #web service
+        build: .    #build the current folder
+        command: python manage.py runserver  0.0.0.0:8000 #to run the server we will pass this command
+        ports: 
+            - 8000:8000 #port binding
