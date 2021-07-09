@@ -1,5 +1,5 @@
 What is this what I have to build?
-###A course model, which will have basic data about the courses. It should be accessible via a rest API (CRUD).
+# A course model, which will have basic data about the courses. It should be accessible via a rest API (CRUD).
 * Name of the course
 * Name of the author
 * Date of the course
@@ -7,10 +7,10 @@ What is this what I have to build?
 * Users enrolled in this course
 
 ---
-###A wishlist model, which will have a user and a course.  -
+# A wishlist model, which will have a user and a course.  -
 * User showing all data about the user
 * Course showing all data about the course
-###A user, who can be logged in using TokenAuthentication. This should also be a CRUD API.
+# A user, who can be logged in using TokenAuthentication. This should also be a CRUD API.
 The following features are desirables - 
 * Register
 * Login
